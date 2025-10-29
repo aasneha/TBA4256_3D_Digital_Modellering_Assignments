@@ -1,5 +1,5 @@
-cloud_path: './Data/off-ground points.pcd'
-save_root_dir: ./Data/res_rans0.15
+cloud_path: './data/Assignment02 - Cloud.pcd'
+save_root_dir: ./data/res_rans0.15
 
 # params for each step
 ## step 1:
