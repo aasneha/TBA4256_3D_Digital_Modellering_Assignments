@@ -1,7 +1,0 @@
-numpy
-open3d
-pandas
-pyntcloud
-PyYAML
-scikit_learn
-tqdm
