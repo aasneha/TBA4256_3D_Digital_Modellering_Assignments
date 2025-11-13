@@ -15,12 +15,7 @@ venv/
 .cache/
 
 # Data (large point clouds)
-*.las
-*.laz
-*.pcd
-*.zip
-*.csv
-*.png
+
 
 # OS & editor files
 .DS_Store

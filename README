@@ -1,22 +1,13 @@
-# TBA4256 – 3D Digital Modelling  
-Assignments 1 & 2  
-
-This repository contains scripts for **Assignment 1** and **Assignment 2** in the course *TBA4256 – 3D Digital Modelling*.  
-Both assignments involve processing of point cloud data using **Open3D**, **NumPy**, and **LasPy**.
+# TBA4256_3D_Digital_Modelling_Final_Project
+Assignment 1 and 2 in 3D digital modelling
 
 ---
+#### First time running the program, run the setup script:
 
-## Installation
+python setup_env.py
 
-Before running any of the scripts, make sure you have Python 3.10 or newer installed.  
-Then create a virtual environment and install all dependencies from `requirements.txt`.
-
-```bash
-# Create and activate virtual environment
-python -m venv venv
-venv\Scripts\activate        # (Windows)
-# source venv/bin/activate   # (Mac/Linux)
-
-# Upgrade pip and install dependencies
-pip install --upgrade pip
-pip install -r requirements.txt
+---
+#### Once the environments is ready, open and run the notebook for assignment 1 and 2 
+assignment1.ipynb 
+assignment2.ipynb
+---
