@@ -7,6 +7,11 @@ Assignment 1 and 2 in 3D digital modelling
 python setup_env.py
 
 ---
+#### Data for assigment 2 is available as a GitHub Release asset:
+
+Assignment02Cloud.las
+
+---
 #### Once the environments is ready, open and run the notebook for assignment 1 and 2 
 assignment1.ipynb 
 
