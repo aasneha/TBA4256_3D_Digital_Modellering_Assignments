@@ -12,7 +12,7 @@ python setup_env.py
 Assignment02Cloud.las
 
 ---
-#### Once the environments is ready, open and run the notebook for assignment 1 and 2 
+#### Once the environment is ready, open and run the notebook for assignment 1 and 2 
 assignment1.ipynb 
 
 assignment2.ipynb
